@@ -60,7 +60,3 @@ olarak devam ediyorum.</div>
  <a href="https://discord.com/users/955460436801761290" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/955460436801761290?bg=111111">
   
-## Spotify Playing..
-  
-<!-- ![spotify-github-profile](https://now-playing.15adityagaikwad.repl.co/now-playing/q?uid=bwygdf3k5na8cdy8ek3ofoteq&size=small&background=dark) -->
-
