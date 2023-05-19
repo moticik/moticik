@@ -62,4 +62,5 @@ olarak devam ediyorum.</div>
   
 ## Spotify Playing..
   
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=31waj2qlcoivbc7ele5x3gitwf4m)
+<!-- ![spotify-github-profile](https://now-playing.15adityagaikwad.repl.co/now-playing/q?uid=bwygdf3k5na8cdy8ek3ofoteq&size=small&background=dark) -->
+
