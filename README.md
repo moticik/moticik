@@ -62,4 +62,4 @@ olarak devam ediyorum.</div>
   
 ## Spotify Playing..
   
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9vedqsjezbteu0vx5h4hbro85&cover_image=true&theme=default)](https://github.com/khesyfx/khesyfx)
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=31waj2qlcoivbc7ele5x3gitwf4m)
