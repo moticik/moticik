@@ -1,8 +1,8 @@
 **About Me**
 <div align="center">Merhaba, ben Deniz. 18 yaşında, kendi halinde bir yazılım
-öğrencisiyim. Yaklaşık 2 yıl önce Discord botları geliştirerek 
-başladığım yazılım serüvenine Full Stack Web Developing öğrencisi
-olarak devam ediyorum.</div>
+öğrencisiyim. Yaklaşık 3 yıl önce Discord botları geliştirerek 
+başladığım yazılım serüvenine Full Stack Web Developing ve Tasarım öğrencisi
+olarak devam ediyorum. </div>
 
 
 ## My Skill Set  
