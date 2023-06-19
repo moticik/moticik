@@ -53,9 +53,9 @@ olarak devam ediyorum. </div>
 
 ## Contact
 <p align="center">
-  <a href="https://discord.com/users/955460436801761290" target"blank_"><img src="https://shields.io/badge/Khesy-111111.svg?&style=for-the-badge&logo=discord"></a>
-  <a href="https://github.com/khesyfx" target"blank_"><img src="https://shields.io/badge/khesyfx-111111.svg?&style=for-the-badge&logo=github"></a>
-   <a href="https://open.spotify.com/user/31waj2qlcoivbc7ele5x3gitwf4m" target"blank_"><img src="https://shields.io/badge/Khesy-111111.svg?&style=for-the-badge&logo=spotify"></a>
+  <a href="https://discord.com/users/955460436801761290" target"blank_"><img src="https://shields.io/badge/moticik-111111.svg?&style=for-the-badge&logo=discord"></a>
+  <a href="https://github.com/moticik" target"blank_"><img src="https://shields.io/badge/moticik-111111.svg?&style=for-the-badge&logo=github"></a>
+   <a href="https://open.spotify.com/user/31waj2qlcoivbc7ele5x3gitwf4m" target"blank_"><img src="https://shields.io/badge/tmertsln-111111.svg?&style=for-the-badge&logo=spotify"></a>
  <p align="center">
  <a href="https://discord.com/users/955460436801761290" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/955460436801761290?bg=111111">
