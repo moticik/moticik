@@ -48,7 +48,7 @@ olarak devam ediyorum. </div>
 <br/>  
 
 ## Github Stat's
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khesyfx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Khesy Github Stat's" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khesyfx&layout=compact)](https://github.com/moticik/moticik)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moticik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Khesy Github Stat's" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moticik&layout=compact)](https://github.com/moticik/moticik)
 | ------------- | ------------- |
 
 ## Contact
