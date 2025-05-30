@@ -1,7 +1,6 @@
 **About Me**
-<div align="center">Merhaba, ben Mert. 18 yaşında, kendi halinde bir yazılım
-öğrencisiyim. Yaklaşık 3 yıl önce Discord botları geliştirerek 
-başladığım yazılım serüvenine Full Stack Web Developing ve Tasarım öğrencisi
+<div align="center">Merhaba, ben Mert. 20 yaşında, kendi halinde bir yazılım & tasarımla uğraşan türk genciyim :D. Yaklaşık 5 yıl önce Discord botları geliştirerek 
+başladığım yazılım serüvenine, Tasarım öğrencisi
 olarak devam ediyorum. </div>
 
 
